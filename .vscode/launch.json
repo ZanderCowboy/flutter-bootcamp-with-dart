@@ -5,24 +5,11 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "program": "lib/main.dart",
             "name": "i_am_poor",
             "cwd": "i_am_poor",
             "request": "launch",
             "type": "dart"
         },
-        {
-            "name": "i_am_poor (profile mode)",
-            "cwd": "i_am_poor",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "profile"
-        },
-        {
-            "name": "i_am_poor (release mode)",
-            "cwd": "i_am_poor",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "release"
-        }
     ]
 }
