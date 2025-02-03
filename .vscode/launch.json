@@ -25,5 +25,12 @@
             "request": "launch",
             "type": "dart"
         },
+        {
+            "program": "lib/main.dart",
+            "name": "magic_8_ball",
+            "cwd": "magic_8_ball",
+            "request": "launch",
+            "type": "dart"
+        },
     ]
 }
