@@ -11,5 +11,12 @@
             "request": "launch",
             "type": "dart"
         },
+        {
+            "program": "lib/main.dart",
+            "name": "mi_card",
+            "cwd": "mi_card",
+            "request": "launch",
+            "type": "dart"
+        },
     ]
 }
