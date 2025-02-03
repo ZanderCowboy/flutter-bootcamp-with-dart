@@ -18,5 +18,12 @@
             "request": "launch",
             "type": "dart"
         },
+        {
+            "program": "lib/main.dart",
+            "name": "dicee",
+            "cwd": "dicee",
+            "request": "launch",
+            "type": "dart"
+        },
     ]
 }
