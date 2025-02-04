@@ -32,5 +32,12 @@
             "request": "launch",
             "type": "dart"
         },
+        {
+            "program": "lib/main.dart",
+            "name": "xylophone",
+            "cwd": "xylophone",
+            "request": "launch",
+            "type": "dart"
+        },
     ]
 }
