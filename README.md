@@ -1,10 +1,16 @@
 # Flutter-Course-Resources
 
+## Setup
+
+* VS Code
+* Flutter version: `3.27.1`
+* Dart version: `3.6.0`
+* Using Windows 11
+
 ## Section 1: Introduction to Cross-Platform Development with Flutter and Dart
 
 * [Download the Course Syllabus](https://drive.google.com/uc?export=download&id=1itL9AXx7Z-RxFAjSLLhsTeTFZYrkfweR)
 * [Cornell Note Taking System - App Brewery Template](https://drive.google.com/uc?export=download&id=1RfRLujREfLx1PSpw9bubNDsvRuknJ5ek)
-
 
 ## Section 2: Setting Up for Flutter Development
 
@@ -13,7 +19,6 @@
 * [Git for Mac](https://desktop.github.com)
 * [Install Android Studio](https://developer.android.com/studio/)
 * [iOS Setup Instructions](https://flutter.dev/docs/get-started/install/macos#ios-setup)
-
 
 ## Section 3: I Am Rich - How to Create Flutter Apps from Scratch
 
@@ -126,7 +131,7 @@
 * [BMI Completed Project](https://github.com/londonappbrewery/BMI-Calculator-Completed)
 
 ## Section 13: Clima - Powering Your Flutter App with Live Weather Web Data
- 
+
 * [Clima Stub Project](https://github.com/londonappbrewery/Clima-Flutter)
 * [Get the Location using the Geolocator Package](https://pub.dartlang.org/packages/geolocator)
 * [Android X Compatilibity](https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility)
@@ -205,24 +210,3 @@
 * [The Provider Package](https://pub.dev/packages/provider)
 * [The InheritedWidget Class](https://api.flutter.dev/flutter/widgets/InheritedWidget-class.html)
 * [Todoey Completed Project](https://github.com/londonappbrewery/todoey-flutter)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
