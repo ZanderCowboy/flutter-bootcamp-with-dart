@@ -39,5 +39,12 @@
             "request": "launch",
             "type": "dart"
         },
+        {
+            "program": "lib/main.dart",
+            "name": "quizzler",
+            "cwd": "quizzler",
+            "request": "launch",
+            "type": "dart"
+        },
     ]
 }
