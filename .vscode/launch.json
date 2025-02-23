@@ -53,5 +53,12 @@
             "request": "launch",
             "type": "dart"
         },
+        {
+            "program": "lib/main.dart",
+            "name": "bmi_calculator",
+            "cwd": "bmi_calculator",
+            "request": "launch",
+            "type": "dart"
+        },
     ]
 }
