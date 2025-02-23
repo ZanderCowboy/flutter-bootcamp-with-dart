@@ -46,5 +46,12 @@
             "request": "launch",
             "type": "dart"
         },
+        {
+            "program": "lib/main.dart",
+            "name": "destini",
+            "cwd": "destini",
+            "request": "launch",
+            "type": "dart"
+        },
     ]
 }
